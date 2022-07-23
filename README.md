@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello my name is Lucas Pereira, come in, sit down and have a coffee 👋☕
+
+- 🔭 I’m currently working on technical support analyst
+- 📖 Learning Java language ☕ and Spring Framework 🍃
+
+<div align="center">
+  <a href="https://github.com/lps271">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lps271&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lps271&layout=compact&langs_count=7&theme=dark"/>
+</div
 
 <!--
 **lps271/lps271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
